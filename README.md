@@ -20,6 +20,17 @@
 맞아요, 당신만의 작은 bash이요.
 프로세스나 파일 디스크립터에 대해 아주 많이 배우게 될 겁니다.
 
+## 실행 방법
+
+```
+git clone git@github.com:mingkyeongg/42-cursus_minishell.git
+```
+
+```
+make
+./minishell
+```
+
 ## Developer
 
 |파싱|실행|
